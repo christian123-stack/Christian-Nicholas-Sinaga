@@ -25,7 +25,7 @@ I'm a Computer Science student focusing on computer network administration and A
 
 ## 📊 GitHub Stats
 
-[Christian's GitHub Stats](https://github.com/christian123-stack)
+![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=christian123-stack&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
