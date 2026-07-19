@@ -31,9 +31,10 @@ I'm a Computer Science student focusing on computer network administration and A
 
 ## 🛠️ Advanced Project
 
-1️⃣ **Rancang Bangun Aplikasi Monitoring Pelanggaran Lalu Lintas**
+1️⃣ **Design and Build a Traffic Violation Monitoring App**
   🚗 Road marking violation and vehicle equipment detection system using YOLOv8n and Python, automatically integrated with a spreadsheet reporting system.
- 2️⃣ **Perancangan & Implementasi Topologi Jaringan Enterprise**
+  
+ 2️⃣ **Design & Implementation of Enterprise Network Topology**
   🌐 Middle network architecture configuration using Cisco Packet Tracer that implements inter-VLAN routing, dynamic OSPF, access security via ACLs, and much more.
 
 ---
@@ -41,5 +42,7 @@ I'm a Computer Science student focusing on computer network administration and A
 📞 Call Me
 
 📧 **Email:** [christiannicholassinaga@gmail.com](mailto:christiannicholassinaga@gmail.com)
+
 📸 **Instagram:** [@sinaga797](https://www.instagram.com/sinaga797?igsh=enhjbmdkamdqNTlh)
+
 💼 **LinkedIn:** [](#)
