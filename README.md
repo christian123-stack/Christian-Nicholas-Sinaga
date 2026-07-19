@@ -28,6 +28,7 @@ I am a Computer Science student who focuses on computer network administration. 
 ## 🛠️ Advanced Project
   
 1️⃣ **Design & Implementation of Enterprise Network Topology**
+
   🌐 Middle network architecture configuration using Cisco Packet Tracer that implements inter-VLAN routing, dynamic OSPF, access security via ACLs, and much more.
 
 ---
