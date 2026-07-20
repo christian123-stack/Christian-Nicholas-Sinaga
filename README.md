@@ -33,7 +33,7 @@ I am a Computer Science student who focuses on computer network administration. 
 
 ---
 
-📞 Call Me
+📞 Contact Me
 
 📧 **Email:** [christiannicholassinaga@gmail.com](mailto:christiannicholassinaga@gmail.com)
 
